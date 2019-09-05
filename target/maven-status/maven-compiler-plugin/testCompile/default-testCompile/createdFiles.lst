@@ -1,0 +1,11 @@
+com\hcl\rubikbank\controller\UpdateAccountControllerTest.class
+com\hcl\rubikbank\controller\LoginControllerTest.class
+com\hcl\rubikbank\service\DeleteAccountServiceTest.class
+com\hcl\rubikbank\service\AddFavouriteServiceImplTest.class
+com\hcl\rubikbank\service\LoginServiceTest.class
+com\hcl\rubikbank\service\UpdateAccountServiceImplTest.class
+com\hcl\rubikbank\controller\DeleteAccountControllerTest.class
+com\hcl\rubikbank\RubikbankApplicationTests.class
+com\hcl\rubikbank\controller\AddFavouriteConrollerTest.class
+com\hcl\rubikbank\controller\FavouriteControllerTest.class
+com\hcl\rubikbank\service\FavouriteServiceImplTest.class
